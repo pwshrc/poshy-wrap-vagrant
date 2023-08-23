@@ -1,0 +1,3 @@
+vagrant
+poshy-wrap
+pwshrc
